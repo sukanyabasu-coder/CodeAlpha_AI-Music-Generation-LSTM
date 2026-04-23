@@ -21,10 +21,25 @@ This project generates music using deep learning (LSTM) trained on MIDI datasets
 - outputs/ → generated MIDI files
 
 ## ▶️ How to Run
-1. Open the notebook
-2. Run preprocessing and load model
-3. Run generation cells
-4. Download output MIDI files
+
+1. Download the dataset from Kaggle (link below)
+2. Open the notebook in Kaggle or Jupyter
+3. Install required libraries:
+   - music21
+   - tensorflow
+   - numpy
+4. Run preprocessing and model loading cells
+5. Run the generation cells to create music
+6. Download the generated `.mid` files from the output folder
+
+## ⚠️ Note
+
+This notebook is already executed and includes outputs for reference.
+
+To run the project:
+- Upload the notebook to Kaggle or Google Colab
+- Attach the dataset (link below)
+- Run the cells as instructed
 
 ## 🎧 Sample Outputs
 (Download and play .mid files)

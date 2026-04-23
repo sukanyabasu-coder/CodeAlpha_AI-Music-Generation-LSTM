@@ -44,9 +44,6 @@ To run the project:
 ## 📊 Dataset
 
 Dataset used: MIDI Music Dataset  
-Source: ## 📊 Dataset
-
-Dataset used: MIDI Music Dataset  
 Source: https://www.kaggle.com/datasets/sukanyabasucoder/midi-music-dataset
 
 ## 🎧 Sample Outputs

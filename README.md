@@ -41,8 +41,16 @@ To run the project:
 - Attach the dataset (link below)
 - Run the cells as instructed
 
+## 📊 Dataset
+
+Dataset used: MIDI Music Dataset  
+Source: ## 📊 Dataset
+
+Dataset used: MIDI Music Dataset  
+Source: https://www.kaggle.com/datasets/sukanyabasucoder/midi-music-dataset
+
 ## 🎧 Sample Outputs
-(Download and play .mid files)
+Download and play .mid files(-Already attached as demo)
 
 ## 📌 Future Improvements
 - Reduce repetition in music
